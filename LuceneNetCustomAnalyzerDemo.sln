@@ -7,12 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C12649ED-330
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5060FB6C-B3F9-4706-BD34-026818BBA723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuceneExtensions", "LuceneExtensions\LuceneExtensions.csproj", "{F15FAB1F-C1DE-45B4-91BE-D22F4E3F063C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuceneExtensions", "LuceneExtensions\LuceneExtensions.csproj", "{F15FAB1F-C1DE-45B4-91BE-D22F4E3F063C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuceneExtensions.Tests", "LuceneExtensions.Tests\LuceneExtensions.Tests.csproj", "{3E178E42-9948-4096-921C-DA5D0B3E93E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuceneExtensions.Tests", "LuceneExtensions.Tests\LuceneExtensions.Tests.csproj", "{3E178E42-9948-4096-921C-DA5D0B3E93E3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99D939C8-0A5E-4F32-8500-303C668652AB}"
 	ProjectSection(SolutionItems) = preProject
+		FUNDING.yml = FUNDING.yml
 		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection
